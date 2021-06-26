@@ -1,6 +1,8 @@
 ```bash
 * Wickr Me: vaneulen
-* E-Mail: vaneulen@protonmail.com
+* Threema ID: BFVEK49A
+* Datash: 4721
+* E-Mail: info@vaneulen.com
 * hack.chat/?vaneulen
 * Bitmessage:BM-2cT15C1hVdx9Bi9r9PRMidkW9wEowsVS8N
 * riot.im: #vaneulen
