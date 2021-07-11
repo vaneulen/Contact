@@ -1,6 +1,7 @@
 ```bash
 * Wickr Me: vaneulen
 * Threema ID: BFVEK49A
+* Telegram: @vaneulen
 * Datash: 4721
 * E-Mail: info@vaneulen.com
 * hack.chat/?vaneulen
